@@ -1,0 +1,6 @@
+- Basic image classification
+- Basic text classification
+- Text classification with TensorFlow Hub: Movie reviews 
+- Basic regression: Predict fuel efficiency 
+- Overfit and Underfit
+- Save and Load models
