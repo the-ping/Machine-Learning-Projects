@@ -1,4 +1,4 @@
-- Basic image classification
+- Basic image classification: Classify images of clothing 
 - Basic text classification
 - Text classification with TensorFlow Hub: Movie reviews 
 - Basic regression: Predict fuel efficiency 
